@@ -27,13 +27,13 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  "https://github.com/gracentruth"
+    github:  gracentruth
     #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
-    instagram: "https://www.instagram.com/grace_n_truth_/"
+    instagram: grace_n_truth_
     #pinterest: jekyll
-    youtube: "https://www.youtube.com/channel/UC2hgLkvM5662yQ_qKyzV3pA/about"
+    youtube: channel/UC2hgLkvM5662yQ_qKyzV3pA
     #facebook: jekyll
     #soundcloud: jekyll
     #telegram: jekyll
