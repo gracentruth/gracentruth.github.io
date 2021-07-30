@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "New Post"
+date:   2021-07-30 10:07:36 +0530
+categories: test
+tags: 
+- blog
+- jekyll
+---
