@@ -54,11 +54,7 @@ layout: default
               {{ post.date | date: date_format }}
             </div>
             {%- if post.categories.size > 0-%}
-            <ul class="post-categories">
-              {%- for tag in post.categories -%}
-              <li>{{ tag }}</li>
-              {%- endfor -%}
-            </ul>
+           
             {%- endif -%}
           </div>
           <div class="post">
